@@ -1,0 +1,23 @@
+/*@import url("https://www.w3schools.com/lib/w3.css");*/
+/*@import url("https//cdjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");*/
+body {
+    margin: 0;
+    font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+nav{
+    display: block;
+}
+
+.nav{
+    color: #fff;
+}
+
+/*element.style{}*/
+
+section.resume-seccion{
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

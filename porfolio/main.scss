@@ -1,0 +1,16 @@
+@charset 'utf-8';
+
+//css
+@import "./css/styles.css";
+
+//utilitiles
+@import "./styles/utilitiles/_colors.scss";
+@import "./styles/utilitiles/_responsive.scss";
+
+//block - layouts
+@import "./block/_grid.scss";
+
+//base
+@import "./styles/base/_typo.scss";
+@import "./styles/base/_reset.scss";
+@import "./styles/base/_normalize.scss";
